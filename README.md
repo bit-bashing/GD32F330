@@ -10,4 +10,4 @@ These might be the cheapest Cortex-M4 MCUs available at present (December 2018).
 
 I soldered one of the parts onto a TSSOP to DIL breakout board (photo below)
 
-I started off trying to program them with the free/evaluation Keil MDK v.5.26 toolchain along with a J-Link Mini SWD/JTAG 
+I started off trying to program them with the free/evaluation Keil MDK v.5.26 toolchain along with a J-Link Mini Edu SWD/JTAG 
